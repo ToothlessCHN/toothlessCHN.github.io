@@ -11,7 +11,7 @@ This site is built with the Jekfix Template, for more information, see things be
 
 See the [demo here](https://www.rossener.com/jekflix-template).
 
-## Questions?
+## Questions About the Template?
 
 Ping me on Twitter [@thiagorossener](https://twitter.com/thiagorossener) or file a [GitHub Issue](https://github.com/thiagorossener/jekflix-template/issues/new).
 
@@ -19,6 +19,6 @@ Ping me on Twitter [@thiagorossener](https://twitter.com/thiagorossener) or file
 
 [Thiago Rossener](https://www.rossener.com/) based on [Cards Jekyll Template](https://github.com/willianjusten/cards-jekyll-template).
 
-## License
+## Template License
 
 *Jekflix Template* is available under the MIT license. See the LICENSE file for more info.
