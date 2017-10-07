@@ -3,7 +3,7 @@
 # Site Settings
 title: Toothless.top
 email: 
-description: 
+description: This is a guide about Dreamworks HowToTrainYourDragon Series.
 baseurl: "/toothlessCHN.github.io" # the subpath of your site, e.g. /blog
 url: "http://toothless.top" # the base hostname & protocol for your site
 google_analytics: 
