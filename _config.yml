@@ -1,1 +1,45 @@
 theme: jekyll-theme-cayman
+
+# Site Settings
+title: Toothless.top
+email: 
+description: 
+baseurl: "/toothlessCHN.github.io" # the subpath of your site, e.g. /blog
+url: "http://toothless.top" # the base hostname & protocol for your site
+google_analytics: 
+
+# User Settings
+username: Toothless
+user_description: Toothless Himself
+disqus_username: 
+
+# Social Media
+# Remove the item if you don't need it
+github_username: 
+facebook_username: 
+twitter_username: 
+instagram_username: 
+linkedin_username: 
+medium_username: 
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Plugins
+gems:
+  - jemoji
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: 首页
+    url: /
+  - title: 关于
+    url: /about/
+  - title: 联系
+    url: /contact/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
