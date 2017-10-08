@@ -2,9 +2,9 @@
 layout: main
 ---
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-  <div style="font-weight:bold;color:white;font-size:4em;margin:1em;">
+  <span style="font-weight:bold;color:#FFFFFF;font-size:4em;margin:1em;">
   文章
-  </div>
+  </span>
    <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
