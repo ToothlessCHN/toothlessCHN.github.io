@@ -6,9 +6,6 @@ This is a guide about Dreamworks HowToTrainYourDragon Series.
 
 This site is built with the Jekfix Template, for more information, see things below:
 
-
-![Cover Image](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
-
 See the [demo here](https://www.rossener.com/jekflix-template).
 
 ## Questions About the Template?
