@@ -23,15 +23,15 @@ permalink: /contact/
         <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
         <input type="hidden" name="_language" value="en" />
 
-        <input type="text" name="name" placeholder="Your name" v-validate="'required'"
+        <input type="text" name="name" placeholder="你的姓名/昵称" v-validate="'required'"
                :class="{ 'has-error': errors.has('name') }">
         <span v-if="errors.has('name')" v-cloak>${ errors.first('name') }</span>
 
-        <input type="text" name="email" placeholder="Your e-mail" v-validate="'required|email'"
+        <input type="text" name="email" placeholder="你的电子邮箱" v-validate="'required|email'"
                :class="{ 'has-error': errors.has('email') }">
         <span v-if="errors.has('email')" v-cloak>${ errors.first('email') }</span>
 
-        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="Your message" v-validate="'required'"
+        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="你想说的话" v-validate="'required'"
                   :class="{ 'has-error': errors.has('message') }"></textarea>
         <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
 
