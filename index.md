@@ -2,7 +2,7 @@
 layout: main
 ---
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-  <div class="mainpagehead">
+  <div style="font-weight:bold;color:white;font-size:4em;margin:1em;">
   文章
   </div>
    <div id="grid" class="row flex-grid">
