@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: 联系我们
 description: Let's talk.
 permalink: /contact/
 ---
