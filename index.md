@@ -4,7 +4,7 @@ layout: main
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
   <span style="font-weight:bold;color:#FFFFFF;font-size:3em;margin:0.5em 0.5em 0 0.5em;">站点导航</span><br/>
  
-  <span style="color:#FFFFFF;">建设中</span><br/>
+  <span style="color:#FFFFFF;margin:0.5em;">建设中</span><br/>
 
   <span style="font-weight:bold;color:#FFFFFF;font-size:3em;margin:0.5em 0.5em 0 0.5em;">文章</span>
    <div id="grid" class="row flex-grid">
