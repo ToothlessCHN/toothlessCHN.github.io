@@ -2,7 +2,9 @@
 layout: main
 ---
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
- <div class="mainpagehead">文章</div>
+  <div class="mainpagehead">
+  文章
+  </div>
    <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
