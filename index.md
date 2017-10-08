@@ -2,10 +2,11 @@
 layout: main
 ---
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-  <span style="font-weight:bold;color:#FFFFFF;font-size:3em;margin:0.5em 0.5em 0 0;">站点导航</span>
-  <span style="color:#FFFFFF;">建设中</span>
-  
-  <span style="font-weight:bold;color:#FFFFFF;font-size:3em;margin:0.5em 0.5em 0 0;">文章</span>
+  <span style="font-weight:bold;color:#FFFFFF;font-size:3em;margin:0.5em 0.5em 0 0.5em;">站点导航</span><br>
+ 
+  <span style="color:#FFFFFF;">建设中</span><br>
+
+  <span style="font-weight:bold;color:#FFFFFF;font-size:3em;margin:0.5em 0.5em 0 0.5em;">文章</span>
    <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
